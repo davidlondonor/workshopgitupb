@@ -4,7 +4,7 @@ Estamos en el * taller* aprendiendo como se
 maneja Github, la terminal y algunos comentados   
 de linux  
 
-Ricardo Milvia Arturo Manual Sebastian Mauricio Diana Diana Julia Estaban Luis Inti Esteban Julian
+Ricardo Milvia Arturo Manual Sebastian Mauricio Diana Diana Julia Estaban Luis Esteban Julian
 
 * Item 1  Enlace numero uno www.twitter.com
 * Item 2  Enlace a www.instagram.com
